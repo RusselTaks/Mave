@@ -1,0 +1,20 @@
+body{
+	background-color: pink;
+	background-image:url(Images/pauline.jpg);
+
+}
+.heading{
+	text-align: center;
+}
+.characteristics{
+	text-align: center;
+}
+img{
+	height: 200px;
+	width: 210px;
+	margin-left: 10px;
+	border-style: solid;
+}
+.row{
+	display: flex;
+}
